@@ -185,7 +185,7 @@ const Contact = ({ language }: { language: 'tr' | 'en' }) => {
 
             <div className="bg-white rounded-lg shadow-lg overflow-hidden h-[400px]">
               <iframe
-                src="https://maps.app.goo.gl/WEVescpa5KFHLNif6"
+                src="https://www.google.com/maps/embed?pb=!4v1744901149747!6m8!1m7!1sCAoSLEFGMVFpcE9GZW9veExEQ29FNld0WmduejUySV9WcGJFdmJ3ZzFGZ1NBZEFZ!2m2!1d37.03175112747551!2d27.43956170808691!3f31.94!4f1.7099999999999937!5f0.7820865974627469"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
