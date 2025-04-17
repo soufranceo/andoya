@@ -9,13 +9,13 @@ const Guide = ({ language }: { language: 'tr' | 'en' }) => {
         title: 'Bodrum Kalesi',
         description: 'Bodrum\'un simgesi olan kale, Sualtı Arkeoloji Müzesi olarak hizmet vermektedir. Muhteşem deniz manzarası ve tarihi atmosferi ile unutulmaz bir deneyim sunar.',
         location: 'https://maps.google.com/maps?q=Bodrum+Kalesi',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bodrum_Castle_-_panoramio.jpg/1200px-Bodrum_Castle_-_panoramio.jpg'
+        image: 'https://ia.tmgrup.com.tr/77db65/0/0/0/0/864/486?u=https://i.tmgrup.com.tr/es/2022/01/21/yenilenen-bodrum-kalesini-165-bin-kisi-ziyaret-etti-1642769198738.jpg'
       },
       {
         title: 'Zeki Müren Sanat Müzesi',
         description: 'Türk sanat müziğinin unutulmaz sesi Zeki Müren\'in yaşamını ve sanatını anlatan özel müze.',
         location: 'https://maps.google.com/maps?q=Zeki+Müren+Sanat+Müzesi+Bodrum',
-        image: 'https://www.kulturportali.gov.tr/repoKulturPortali/large/SehirRehberi//GezilecekYer/20180319133721188_Zeki%20Muren%20Sanat%20Muzesi%20(2).jpg'
+        image: 'https://www.muglayenigun.com//wp-content/uploads/2024/10/WhatsApp-Gorsel-2024-10-26-saat-16.43.35_7e1f7657.jpg'
       },
       {
         title: 'Antik Tiyatro',
