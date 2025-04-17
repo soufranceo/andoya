@@ -17,7 +17,8 @@ const Contact = ({ language }: { language: 'tr' | 'en' }) => {
       send: 'Gönder',
       success: 'Mesajınız başarıyla gönderildi!',
       error: 'Bir hata oluştu. Lütfen tekrar deneyin.',
-      address: 'Alacamescit, Gümüşçeken Cd. no:6, 16200 Osmangazi/Bursa'
+      address: 'Kumbahçe, Papatya Sk. No:15 iç kapı no 1,
+48470 Bodrum/Muğla'
     },
     en: {
       title: 'Contact',
@@ -177,7 +178,7 @@ const Contact = ({ language }: { language: 'tr' | 'en' }) => {
                     <h3 className="font-semibold text-gray-900 mb-1">
                       {language === 'tr' ? 'E-posta' : 'Email'}
                     </h3>
-                    <p className="text-gray-600">cesmelihotel16@hotmail.com</p>
+                    <p className="text-gray-600">andoya@hotmail.com</p>
                   </div>
                 </div>
               </div>
@@ -185,7 +186,7 @@ const Contact = ({ language }: { language: 'tr' | 'en' }) => {
 
             <div className="bg-white rounded-lg shadow-lg overflow-hidden h-[400px]">
               <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3048.1434565618133!2d29.063220775855658!3d40.18362077147807!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca3de105153c87%3A0xa4069241e8b0d744!2sBursa%20Merkez%20%C3%87e%C5%9Fmeli%20Hotel!5e0!3m2!1str!2str!4v1732575964845!5m2!1str!2str"
+                src="https://maps.app.goo.gl/WEVescpa5KFHLNif6"
                 width="100%"
                 height="100%"
                 style={{ border: 0 }}
