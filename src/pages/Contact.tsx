@@ -17,8 +17,7 @@ const Contact = ({ language }: { language: 'tr' | 'en' }) => {
       send: 'Gönder',
       success: 'Mesajınız başarıyla gönderildi!',
       error: 'Bir hata oluştu. Lütfen tekrar deneyin.',
-      address: 'Kumbahçe, Papatya Sk. No:15 iç kapı no 1,
-48470 Bodrum/Muğla'
+      address: 'Kumbahçe, Papatya Sk. No:15 iç kapı no 1, 48470 Bodrum/Muğla'
     },
     en: {
       title: 'Contact',
@@ -28,7 +27,7 @@ const Contact = ({ language }: { language: 'tr' | 'en' }) => {
       send: 'Send',
       success: 'Your message has been sent successfully!',
       error: 'An error occurred. Please try again.',
-      address: 'Alacamescit, Gümüşçeken St. no:6, 16200 Osmangazi/Bursa'
+      address: 'Kumbahçe, Papatya Sk. No:15 iç kapı no 1, 48470 Bodrum/Muğla'
     }
   };
 
@@ -41,8 +40,8 @@ const Contact = ({ language }: { language: 'tr' | 'en' }) => {
 
     try {
       await emailjs.sendForm(
-        'service_cesmeli',
-        'template_cesmeli',
+        'service_andoya',
+        'template_andoya',
         formRef.current,
         'YOUR_PUBLIC_KEY'
       );
