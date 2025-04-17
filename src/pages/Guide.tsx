@@ -21,25 +21,25 @@ const Guide = ({ language }: { language: 'tr' | 'en' }) => {
         title: 'Antik Tiyatro',
         description: 'M.Ö. 4. yüzyıldan kalma, 13.000 kişilik antik tiyatro. Günümüzde hala etkinlikler için kullanılmaktadır.',
         location: 'https://maps.google.com/maps?q=Bodrum+Antik+Tiyatro',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Ancient_Greek_theatre_in_Bodrum.jpg'
+        image: 'https://www.dengesende.com/images/haberler/2023/03/turkiye-deki-antik-tiyatrolar-4827.jpg'
       },
       {
         title: 'Yel Değirmenleri',
         description: 'Bodrum\'un tepelerinde yer alan tarihi yel değirmenleri, muhteşem manzara ve fotoğraf çekim noktaları sunar.',
         location: 'https://maps.google.com/maps?q=Bodrum+Yel+Değirmenleri',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Windmills_in_Bodrum.jpg/1200px-Windmills_in_Bodrum.jpg'
+        image: 'https://www.bodrumvillakiralama.com/uploads/images/bodrum-yel-degirmenleri-blog-min.jpg'
       },
       {
         title: 'Barlar Sokağı',
         description: 'Bodrum\'un ünlü gece hayatının merkezi, canlı müzik ve eğlence mekanlarıyla dolu.',
         location: 'https://maps.google.com/maps?q=Bodrum+Barlar+Sokağı',
-        image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/79/10/8f/bar-street.jpg?w=1200&h=-1&s=1'
+        image: 'https://tatilcity.net/uploads/0000/1/2024/09/27/barlar-sokagi-bodrum.jpg'
       },
       {
         title: 'Halikarnas Balıkçısı Müzesi',
         description: 'Cevat Şakir Kabaağaçlı\'nın yaşamını ve eserlerini sergileyen müze.',
         location: 'https://maps.google.com/maps?q=Halikarnas+Balıkçısı+Müzesi+Bodrum',
-        image: 'https://www.kulturportali.gov.tr/repoKulturPortali/large/23022013/115233d1-2072-4f07-b814-27f98d205643.JPG'
+        image: 'https://i.gazeteoksijen.com/storage/files/images/2024/05/29/orhan-velinin-misralari-ve-halikarnas-balikcisini-bulusturan-sergi-deniz-ulkesi-ddyd.png'
       }
     ],
     en: [
@@ -47,37 +47,37 @@ const Guide = ({ language }: { language: 'tr' | 'en' }) => {
         title: 'Bodrum Castle',
         description: 'The iconic castle of Bodrum serves as the Museum of Underwater Archaeology. It offers an unforgettable experience with its magnificent sea view and historical atmosphere.',
         location: 'https://maps.google.com/maps?q=Bodrum+Castle',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bodrum_Castle_-_panoramio.jpg/1200px-Bodrum_Castle_-_panoramio.jpg'
+        image: 'https://ia.tmgrup.com.tr/77db65/0/0/0/0/864/486?u=https://i.tmgrup.com.tr/es/2022/01/21/yenilenen-bodrum-kalesini-165-bin-kisi-ziyaret-etti-1642769198738.jpg'
       },
       {
         title: 'Zeki Müren Art Museum',
         description: 'A special museum dedicated to the life and art of Zeki Müren, the unforgettable voice of Turkish classical music.',
         location: 'https://maps.google.com/maps?q=Zeki+Müren+Art+Museum+Bodrum',
-        image: 'https://www.kulturportali.gov.tr/repoKulturPortali/large/SehirRehberi//GezilecekYer/20180319133721188_Zeki%20Muren%20Sanat%20Muzesi%20(2).jpg'
+        image: 'https://www.muglayenigun.com//wp-content/uploads/2024/10/WhatsApp-Gorsel-2024-10-26-saat-16.43.35_7e1f7657.jpg'
       },
       {
         title: 'Ancient Theater',
         description: 'A 13,000-seat ancient theater from the 4th century BC. Still used for events today.',
         location: 'https://maps.google.com/maps?q=Bodrum+Ancient+Theater',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/7/7d/Ancient_Greek_theatre_in_Bodrum.jpg'
+        image: 'https://www.dengesende.com/images/haberler/2023/03/turkiye-deki-antik-tiyatrolar-4827.jpg'
       },
       {
         title: 'Windmills',
         description: 'Historic windmills located on the hills of Bodrum, offering spectacular views and photo opportunities.',
         location: 'https://maps.google.com/maps?q=Bodrum+Windmills',
-        image: 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Windmills_in_Bodrum.jpg/1200px-Windmills_in_Bodrum.jpg'
+        image: 'https://www.bodrumvillakiralama.com/uploads/images/bodrum-yel-degirmenleri-blog-min.jpg'
       },
       {
         title: 'Bar Street',
         description: 'The center of Bodrum\'s famous nightlife, filled with live music venues and entertainment spots.',
         location: 'https://maps.google.com/maps?q=Bodrum+Bar+Street',
-        image: 'https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/79/10/8f/bar-street.jpg?w=1200&h=-1&s=1'
+        image: 'https://tatilcity.net/uploads/0000/1/2024/09/27/barlar-sokagi-bodrum.jpg'
       },
       {
         title: 'Fisherman of Halicarnassus Museum',
         description: 'Museum exhibiting the life and works of Cevat Şakir Kabaağaçlı.',
         location: 'https://maps.google.com/maps?q=Fisherman+of+Halicarnassus+Museum+Bodrum',
-        image: 'https://www.kulturportali.gov.tr/repoKulturPortali/large/23022013/115233d1-2072-4f07-b814-27f98d205643.JPG'
+        image: 'https://i.gazeteoksijen.com/storage/files/images/2024/05/29/orhan-velinin-misralari-ve-halikarnas-balikcisini-bulusturan-sergi-deniz-ulkesi-ddyd.png'
       }
     ]
   };
